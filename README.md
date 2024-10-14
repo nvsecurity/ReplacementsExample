@@ -81,9 +81,8 @@ info:
   version: "0.1"
 openapi: 3.0.0
 paths:
-  # Notice how the unresolved variable is included in the path. 
-  # It should be `/api/v2`, based on the appsettings.json file.
-  /ApiPrefix:
+  # Notice how the path is now `/api/v2` instead of `/ApiPrefix`
+  /api/v2:
     get:
       operationId: ApiPrefix_GET
       responses:
