@@ -1,0 +1,8 @@
+# IDEs
+.idea
+.vscode
+.run/
+
+# Mac OS X
+.DS_Store
+
