@@ -11,7 +11,7 @@ Demonstrates how to use the `nv.config` file during NightVision's API Discovery 
 
 # Tutorial
 
-Sometimes, NightVision may not be able to resolve certain variables in your code to generate the most accurate OpenAPI spec. For example, an API prefix (like including the `/api/v1` before all API paths) may be read from an environment variable without a default value. 
+Sometimes, NightVision may not be able to resolve certain variables in your code to generate the most accurate OpenAPI spec. For example, an API prefix (like including the `/api/v2` before all API paths) may be read from an environment variable without a default value. 
 
 Let's try running the replacement example:
 
