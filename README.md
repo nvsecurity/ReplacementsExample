@@ -2,11 +2,11 @@
 
 Demonstrates how to use the `nv.config` file during NightVision's API Discovery to replace unresolved variables in your codebase. 
 
-> NightVision API Discovery allows you to discover APIs in your codebase and generate API documentation in OpenAPI Format. For more information, see the [NightVision documentation](https://docs.nightvision.net/docs/api-discovery-tutorial).
+> NightVision API Discovery allows you to discover APIs in your codebase and generate API documentation in OpenAPI Format. For more information, see the [NightVision documentation](https://docs.nightviz.ai/api-discovery/api-discovery-tutorial/).
 
 # Prerequisites
 
-* [Install the CLI](https://docs.nightvision.net/docs/installing-the-cli) and log in with `nightvision login`
+* [Install the CLI](https://docs.nightviz.ai/welcome/tutorials-and-guides/installing-the-cli/) and log in with `nightvision login`
 * Clone this repository: `git clone https://github.com/nvsecurity/ReplacementsExample.git`
 
 # Tutorial
